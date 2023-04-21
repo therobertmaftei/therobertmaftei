@@ -43,7 +43,7 @@ I'm Robert. Software engineer from Romania, with a high drive to perfection, a v
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) -->
 
----
+<!-- --- -->
 
 <!-- ####  I really like coffee ☕️
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/therobertmaftei)  -->
